@@ -23,7 +23,7 @@ def first_challenge
      end
    end
  end
-    favorite_icecream_flavors.delete("strawberry")
+    contacts[:Freddy Mercury][:favorite_icecream_flavors].delete("strawberry")
   
   
   
