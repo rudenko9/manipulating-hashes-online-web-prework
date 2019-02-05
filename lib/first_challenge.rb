@@ -23,7 +23,7 @@ def first_challenge
      end
    end
  end
-    [:favorite_icecream_flavors].values
+    [:favorite_icecream_flavors].values_at
   
   
 #remember to return your newly altered contacts hash!
