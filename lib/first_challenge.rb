@@ -23,7 +23,7 @@ def first_challenge
      end
    end
  end
-    contacts[:favorite_icecream_flavors].delete(:strawberry)
+    contacts[:Freddy Mercury][:favorite_icecream_flavors].delete(:strawberry)
     
   #remember to return your newly altered contacts hash!
   contacts
