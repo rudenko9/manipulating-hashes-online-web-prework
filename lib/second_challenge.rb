@@ -7,7 +7,8 @@ def second_challenge
   }
 
   #code your solution here!
-(:dairy , :vegetable , :meat , :grains).values
+groceries.join(",")
+groceries.values
 
 
 end
