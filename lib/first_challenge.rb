@@ -24,11 +24,8 @@ def first_challenge
    end
  end
     contacts[:favorite_icecream_flavors].delete(:strawberry)
-  
-  
-  
-  
-#remember to return your newly altered contacts hash!
+    
+  #remember to return your newly altered contacts hash!
   contacts
 end
 
