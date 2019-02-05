@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-:dairy.values
+(:dairy, :vegetable, :meat, :grains).values
 
 
 end
