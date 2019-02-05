@@ -23,8 +23,8 @@ def first_challenge
      end
    end
  end
-    [:favorite_icecream_flavors].values_at
-    [favorite_icecream_flavors].shift
+    :favorite_icecream_flavors.delete_if == "strawberry"
+  
   
   
 #remember to return your newly altered contacts hash!
