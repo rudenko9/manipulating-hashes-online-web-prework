@@ -23,7 +23,7 @@ def first_challenge
      end
    end
  end
-    :favorite_icecream_flavors.delete_if {|key, value| key >= "strawberry"}
+    contacts.delete_if {|key, value| key >= "strawberry"}
   
 #remember to return your newly altered contacts hash!
   contacts
