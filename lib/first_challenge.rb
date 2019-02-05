@@ -23,7 +23,7 @@ def first_challenge
      end
    end
  end
-    [:favorite_icecream_flavors].delete("strawberry")
+    favorite_icecream_flavors.delete("strawberry")
   
   
   
