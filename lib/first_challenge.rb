@@ -23,7 +23,8 @@ def first_challenge
      end
    end
  end
-    contacts[:Freddy Mercury][:favorite_icecream_flavors].delete("strawberry")
+    contacts[:strawberry][:favorite_icecream_flavors]
+    contacts.delete_if{|k, v| k==favorite_icecream_flavors}
   
   
   
