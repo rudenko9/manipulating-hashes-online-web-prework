@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
 groceries.values
-puts "#{values}"
+puts "values"
   
 end
