@@ -10,5 +10,4 @@ def second_challenge
 groceries.values
 puts "#{values}"
   
-
 end
