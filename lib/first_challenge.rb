@@ -23,7 +23,7 @@ def first_challenge
      end
    end
  end
-   
+   ["Freddy Mercury"][:favorite_icecream_flavors].include?("strawberry").delete
     
   #remember to return your newly altered contacts hash!
   contacts
