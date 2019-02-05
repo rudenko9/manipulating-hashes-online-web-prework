@@ -22,6 +22,7 @@ def first_challenge
        end
      end
    end
+ end
    flavor == ("strawberry").shift
     
   #remember to return your newly altered contacts hash!
